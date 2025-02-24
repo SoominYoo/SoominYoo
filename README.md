@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f99a9a,100:f9da15&height=240&text=Soomin's%20Github&animation=fadeIn&fontColor=ffffff&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:95c7cf,100:aad715&height=240&text=Soomin's%20Github&animation=fadeIn&fontColor=ffffff&fontSize=40" />
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -19,8 +19,8 @@
           </div>
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=Soomin&bg_color=60,f2bdba,f9f6e4&title_color=444444&text_color=444444"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soomin&layout=compact&bg_color=60,f2bdba,f9f6e4&title_color=444444&text_color=444444"
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=Soomin&bg_color=60,fbf9f1,aad7d9&title_color=564c45&text_color=564c45"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soomin&layout=compact&bg_color=60,fbf9f1,aad7d9&title_color=564c45&text_color=564c45"
            /> </div> 
     </div>
     
