@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:95c7cf,100:aad715&height=240&text=Soomin's%20Github&animation=fadeIn&fontColor=ffffff&fontSize=40" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pretendard&weight=600&size=30&pause=1000&color=92C7CF&width=435&lines=Hello+My+name+is+Soomin!!" alt="Typing SVG" /></a>
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
