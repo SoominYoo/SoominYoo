@@ -71,9 +71,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SoominYoo&bg_color=60,fbf9f1,aad7d9&title_color=564c45&text_color=564c45" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoominYoo&layout=compact&bg_color=60,fbf9f1,aad7d9&title_color=564c45&text_color=564c45" />
 </div>
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/SoominYoo/SoominYoo/output/snake.svg" alt="Snake animation" />
-
-###
