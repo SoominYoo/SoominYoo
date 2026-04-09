@@ -1,5 +1,6 @@
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" alt="Typing SVG" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=SoominYoo&show_icons=true&theme=radical" />
+</div>
 
 <br></br>
 
