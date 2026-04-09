@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SoominYoo&show_icons=true&theme=radical" />
-</div>
+![header](https://capsule-render.vercel.app/api?type=slice)
 
 <br></br>
 
