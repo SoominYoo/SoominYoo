@@ -1,14 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=blur&color=0:ff9a9e,100:fad0c4&height=300&section=header&text=Good%20to%20see%20you&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=blur&color=0:ff9a9e,100:fad0c4&height=400&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97&fontColor=564c45)
 
-<br></br>
 
 <div align="left">
-    <h4>👋 Hi there 👋</h4>
+    <h2>👋 Hi there 👋</h2>
     <img src="https://img.shields.io/static/v1?message=s_minim_0&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="instagram logo"  />
     <img src="https://img.shields.io/static/v1?message=soomin2832@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
     <img src="https://img.shields.io/static/v1?message=www.linkedin.com/in/soominyoo&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="youtube logo"  />
-    <h4>I'm interested in Web Development.</h4>
 </div>
 
 
@@ -63,10 +61,3 @@
 <br></br>
 
 ###
-
-<h2 align="left">🏅 Stats</h2>
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=SoominYoo&bg_color=60,fbf9f1,aad7d9&title_color=564c45&text_color=564c45" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoominYoo&layout=compact&bg_color=60,fbf9f1,aad7d9&title_color=564c45&text_color=564c45" />
-</div>
